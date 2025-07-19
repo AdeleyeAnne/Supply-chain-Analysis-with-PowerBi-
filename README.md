@@ -33,9 +33,12 @@
 
 ### Recommendations
 1. Inventory Adjustments: Increase inventory for haircare and cosmetics to meet demand and reduce the risk of stockouts based on order quantities.
-2. **Production Optimization**: Focus production efforts on high-margin products, especially in skincare, to maximize profitability.
-3. **Supply Chain Efficiency**: Analyze and streamline logistics to reduce lead times, particularly for high-demand products, ensuring faster fulfillment.
-4. **Sales Strategy**: Implement targeted marketing campaigns for haircare and cosmetics to boost their sales and visibility, given their lower order quantities relative to demand.
+2. Production Optimization: Focus production efforts on high-margin products, especially in skincare, to maximize profitability.
+3. Supply Chain Efficiency: Analyze and streamline logistics to reduce lead times, particularly for high-demand products, ensuring faster fulfillment.
+4. Sales Strategy: Implement targeted marketing campaigns for haircare and cosmetics to boost their sales and visibility, given their lower order quantities relative to demand.
+5. 
 
 ### Conclusions
-By utilizing the insights derived from the product supply chain analysis, the business can enhance its operational efficiency, meet customer demand more effectively, and ultimately drive higher profitability. Addressing inventory imbalances and optimizing production and distribution strategies are vital steps toward achieving these goals.
+-By utilizing the insights derived from the product supply chain analysis, the business can enhance its operational efficiency, meet customer demand more effectively, and ultimately drive higher profitability. 
+- Addressing inventory imbalances and optimizing production and distribution strategies are vital steps toward achieving these goals.
+- It reveals significant areas for cost reduction and efficiency improvements. By focusing on transportation modes, supplier performance, and stock management, the company can enhance its operational efficiency, reduce costs, and improve product quality. Implementing these recommendations will likely lead to a more robust supply chain and increased overall profitability.
