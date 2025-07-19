@@ -36,7 +36,11 @@
 2. Production Optimization: Focus production efforts on high-margin products, especially in skincare, to maximize profitability.
 3. Supply Chain Efficiency: Analyze and streamline logistics to reduce lead times, particularly for high-demand products, ensuring faster fulfillment.
 4. Sales Strategy: Implement targeted marketing campaigns for haircare and cosmetics to boost their sales and visibility, given their lower order quantities relative to demand.
-5. 
+5. Optimize Transportation: Consider reducing reliance on air transport due to its higher defect rate and costs. Explore more cost-effective options like road or rail, which, despite being slightly more expensive, may yield lower defects.
+6. Supplier Evaluation: Conduct a performance assessment of each supplier, particularly focusing on those with higher defect rates and costs. Engage in negotiations to improve pricing or quality standards.
+7. Stock Management: Monitor stock levels more closely, particularly for suppliers with lower stock levels, to ensure supply continuity and reduce future shipping costs.
+8. Product-Specific Strategies: Develop targeted strategies for high-cost product categories (e.g., cosmetics) to streamline logistics and improve profitability.
+9. 
 
 ### Conclusions
 -By utilizing the insights derived from the product supply chain analysis, the business can enhance its operational efficiency, meet customer demand more effectively, and ultimately drive higher profitability. 
